@@ -1,0 +1,10 @@
+#python==3.7.16
+dill==0.3.6
+numpy==1.21.6
+spacy==3.5.1
+tensorboard==2.11.2
+torch==1.12.1
+torchaudio==0.12.1
+torchdata==0.4.1
+torchtext==0.13.1
+tqdm==4.64.1

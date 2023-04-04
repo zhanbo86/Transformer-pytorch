@@ -1,0 +1,10 @@
+# output dir
+/output*
+/.*data
+
+/github-transformer
+
+*.pyc
+*.pyd
+**/*.egg-info/
+**/__pycache__
